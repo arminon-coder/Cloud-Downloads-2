@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3745",
+  "folder": "YouTube__watch_20260514111031_3f0899",
+  "base_name": "The_Death_of_the_Warcraft_Look_8wPj7l7ZlmQ_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/arminon-coder/Cloud-Downloads-2/releases/tag/co-releases-v1-3745",
+  "files": [
+    {
+      "name": "The_Death_of_the_Warcraft_Look_8wPj7l7ZlmQ_720p.mp4",
+      "url": "https://github.com/arminon-coder/Cloud-Downloads-2/releases/download/co-releases-v1-3745/The_Death_of_the_Warcraft_Look_8wPj7l7ZlmQ_720p.mp4",
+      "api_url": "https://api.github.com/repos/arminon-coder/Cloud-Downloads-2/releases/assets/420100545",
+      "id": 420100545,
+      "size": 56688592,
+      "download_count": 0
+    }
+  ]
+}
